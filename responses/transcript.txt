@@ -1,0 +1,42 @@
+what is interactive voice response systemQuery: dogs are sitting by the door
+Response: I'm glad to hear that!
+
+Query: kids are talking by the door
+Response: I'm glad to hear that!
+
+Query: kids are talking by the door
+Response: I'm glad to hear that!
+
+Query: can you talking about the door
+Response: I'm glad to hear that!
+
+Query: Sorry, there was an error with the speech recognition service.
+Response: I'm glad to hear that!
+
+Query: can you talking about the door
+Response: I'm glad to hear that!
+
+Query: dogs are sitting by the door
+Response: I'm glad to hear that!
+
+Query: can you talking about the door
+Response: I'm glad to hear that!
+
+Query: kids are talking by the door
+Response: I'm glad to hear that!
+
+Query: kids are talking by the door
+Response: I'm glad to hear that!
+
+Query: kids are talking by the door
+Response: I'm glad to hear that!
+
+Query: dogs are sitting by the door
+Response: I'm glad to hear that!
+
+Query: Sorry, there was an error with the speech recognition service.
+Response: I'm glad to hear that!
+
+Query: can you talking about the door
+Response: I'm glad to hear that!
+
